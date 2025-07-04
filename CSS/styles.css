@@ -11,7 +11,7 @@
     --text-light: #636e72;
     --gradient-primary: linear-gradient(135deg, var(--primary-orange), var(--primary-green), var(--primary-blue));
     --gradient-secondary: linear-gradient(45deg, var(--secondary-purple), var(--accent-pink));
-    --gradient-rainbow: linear-gradient(135deg, #ffc3ad, #b1fffa, #70e5ff, #a69aff, #ff9dbf);
+    --gradient-rainbow: linear-gradient(135deg, #ffc3ad, #b1fffa, #70e5ff, #8c7ef9, #fd79a8);
     --shadow-glow: 0 0 30px rgba(255, 107, 53, 0.3);
     --shadow-soft: 0 10px 30px rgba(0, 0, 0, 0.1);
     --shadow-hard: 0 20px 60px rgba(0, 0, 0, 0.2);
